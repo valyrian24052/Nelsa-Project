@@ -12,6 +12,9 @@ const config: Config = {
   ],
   theme: {
   	extend: {
+		maxWidth: {
+                'custom-content-width': '1740px', 
+            },
   		colors: {
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
