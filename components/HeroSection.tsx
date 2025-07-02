@@ -12,8 +12,9 @@ export function HeroSection() {
           <div className="space-y-8">
             <div className="space-y-4">
               <h1 className="text-4xl lg:text-6xl tracking-tight text-gray-900">
-                Expert Project Management for
-                <span className="text-primary block">Real Estate Excellence</span>
+                Expert Project
+                <span className="text-primary block">Management for</span>
+                <span className="text-primary block">for Real Estate Excellence</span>
               </h1>
               <p className="text-xl text-gray-600 max-w-lg">
                 From conception to completion, we deliver exceptional real estate projects with precision, quality, and
