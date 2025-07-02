@@ -3,8 +3,8 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Nelsa LLP',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  description: 'Nelsa Projects LLP Page',
+  generator: 'v',
 }
 
 export default function RootLayout({
