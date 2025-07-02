@@ -94,7 +94,7 @@ function ProjectCard({ project, isOngoing = false }: { project: any; isOngoing?:
           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
         />
       </div>
-      <CardContent className="p-6 flex flex-col h-full">
+      <CardContent className="p-6 flex flex-col">
         <div className="flex items-start justify-between mb-3">
           <h3 className="text-xl text-gray-900 group-hover:text-primary transition-colors">{project.title}</h3>
           <Badge variant="secondary">{project.type}</Badge>

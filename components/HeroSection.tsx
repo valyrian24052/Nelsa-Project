@@ -7,7 +7,7 @@ import { ArrowRight, CheckCircle } from "lucide-react"
 export function HeroSection() {
   return (
     <section className="relative bg-gradient-to-br from-gray-50 to-white py-20 lg:py-32">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="max-w-custom-content-width mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-8">
             <div className="space-y-4">
